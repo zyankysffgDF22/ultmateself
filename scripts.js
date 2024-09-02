@@ -38,7 +38,7 @@ function closeForm() {
     document.getElementById('popupForm').style.display = 'none';
 };
 
-//const scriptURL = 'https://script.google.com/macros/s/AKfycbyYJG-oknZ6TKsUEd8LZnFHIbmK2GRJ4F0JLzC-wzufxDLG45xB5Yw3d2niGJaKjcoJ/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyYJG-oknZ6TKsUEd8LZnFHIbmK2GRJ4F0JLzC-wzufxDLG45xB5Yw3d2niGJaKjcoJ/exec'
 
 const form = document.forms['contact-form']
 
